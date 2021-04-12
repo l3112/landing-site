@@ -140,7 +140,7 @@ text-decoration: green;
     left:0;
     width: 60px;
     height: 60px;
-    background: #60abf7 url(../images/menu.png);
+    background: #60abf7 url(menu.png);
     z-index: 20;
     background-size: 30px;
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ text-decoration: green;
 
 .toggle.active 
 {
-    background: #60abf7 url(../images/close.png);
+    background: #60abf7 url(close.png);
     z-index: 20;
     background-size: 25px;
     background-repeat: no-repeat;
